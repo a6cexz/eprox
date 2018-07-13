@@ -3,7 +3,9 @@
 /deps
 /doc
 /.fetch
+/.elixir_ls
+/config/*.secret.exs
 erl_crash.dump
 *.ez
 *.beam
-/config/*.secret.exs
+mix.lock
