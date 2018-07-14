@@ -1,6 +1,6 @@
 [
   inputs: [
-    "lib/*/{lib,unicode,test}/**/*.{ex,exs}",
-    "lib/*/mix.exs"
+    "{lib,test}/**/*.{ex,exs}",
+    "mix.exs"
   ]
 ]
